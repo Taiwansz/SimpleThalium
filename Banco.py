@@ -1,12 +1,3 @@
-try:
-    import pyfiglet
-except ImportError:
-    import os
-    os.system('pip install pyfiglet')
-    import pyfiglet
-
-
-
 import textwrap
 import time
 import pyfiglet
