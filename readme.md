@@ -48,7 +48,7 @@ Bem-vindo ao sistema bancário da Thalium
 Inicializando sistema...
 ------------------------------------------------------------
 
-╔════════════════════ MENU ════════════════════╗
+╔════════════════════ MENU ═══════════════════╗
 ║ [d] Depositar                               ║
 ║ [s] Sacar                                   ║
 ║ [e] Extrato                                 ║
