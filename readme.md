@@ -17,8 +17,8 @@
 - **Validação de entrada do usuário**  
 - **Manipulação de strings e listas**  
 - Estilização no terminal com:  
-  - [\`colorama\`](https://pypi.org/project/colorama/) — cores para interface  
-  - [\`pyfiglet\`](https://pypi.org/project/pyfiglet/) — logo ASCII no terminal  
+  - [`colorama`](https://pypi.org/project/colorama/) — cores para interface  
+  - [`pyfiglet`](https://pypi.org/project/pyfiglet/) — logo ASCII no terminal  
 
 ---
 
@@ -27,14 +27,15 @@
 Além de seguir a lógica ensinada nas aulas, foram feitos diversos incrementos para elevar a experiência do usuário, mesmo dentro do terminal:
 
 - Layout do menu com **cores e divisões elegantes**  
-- Cabeçalho visual com o nome do banco (\`pyfiglet\`)  
+- Cabeçalho visual com o nome do banco (`pyfiglet`)  
 - Separação clara entre funções com mensagens destacadas  
 - Estrutura de código modular e reutilizável com classes  
 
+---
 
 ## 📸 Exemplo no terminal
 
-\`\`\`
+```plaintext
 ████████╗██╗  ██╗ █████╗ ██╗     ██╗██╗   ██╗███╗   ███╗
 ╚══██╔══╝██║  ██║██╔══██╗██║     ██║██║   ██║████╗ ████║
    ██║   ███████║███████║██║     ██║██║   ██║██╔████╔██║
@@ -54,10 +55,3 @@ Inicializando sistema...
 ║ [q] Sair                                    ║
 ╚═════════════════════════════════════════════╝
 => 
-\`\`\`
-
----
-
-## 👨‍💻 Autor
-
-Desenvolvido por **Matheus Sousa dos Santos** no **VSCode**, com base nos desafios da DIO e incrementado.
